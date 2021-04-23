@@ -1,2 +1,3 @@
 # bangpaik.github.io
-Web Statis
+
+Web Statis untuk pembuatan Form HTML intergrasi dengan spreadsheet menggunakan Google Script
